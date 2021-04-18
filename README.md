@@ -17,6 +17,7 @@ A Chrome Extension/Script for you to download PDF Files of PPTs avaialable on Bi
         ```
     - Paste the Code from [script.js](./script.js)
 <br>
+
 - Using <b>Chrome Extension</b> (Recommended)
     
      - Download [BBLec2PdfExt](./"BBLec2PdfExt")
