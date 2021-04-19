@@ -16,7 +16,6 @@ A Chrome Extension/Script for you to download PDF Files of PPTs avaialable on Bi
         $i('https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.2/jspdf.min.js')
         ```
     - Paste the Code from [script.js](./script.js)
-<br>
 
 - Using <b>Chrome Extension</b> (Recommended)
     
