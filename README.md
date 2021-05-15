@@ -2,7 +2,7 @@
 Convert Big Blue Button Lecture Files by NITK to PDF using `jsPDF`
 
 ### What is this ?
-A Chrome Extension/Script for you to download PDF Files of PPTs avaialable on BigBlue Button. It's a workaround to access study material since it wasn't always provided by faculties and it's a strenous procedure to download them separately. 
+A Chrome Extension/Script for you to download PDF Files of PPTs available on BigBlue Button. It's a workaround to access study material since it wasn't always provided by faculties and it's a strenous procedure to download them separately. 
 
 ### How to Use ?
 
